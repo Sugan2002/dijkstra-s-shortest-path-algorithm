@@ -14,7 +14,14 @@ Identify a location in the google map:
 ### STEP 2:
 Select a specific number of nodes with distance
 
-### STEP -> Write your own steps:
+### STEP 3:
+Import required packages.
+
+### STEP 4:
+Include each node and its distance separately in the dictionary data structure.
+
+### STEP 5:
+End of program.
 
 
 ## ROUTE MAP
