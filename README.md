@@ -1,4 +1,7 @@
-# Dijkstra's Shortest Path Algorithm
+### EX NO : 03
+### DATE  : 10-05-2022
+# <p align="center"> Dijkstra's Shortest Path Algorithm </p>
+
 ## AIM
 
 To develop a code to find the shortest route from the source to the destination point using Dijkstra's shortest path algorithm.
@@ -22,6 +25,15 @@ Include each node and its distance separately in the dictionary data structure.
 
 ### STEP 5:
 End of program.
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 
 ## ROUTE MAP
