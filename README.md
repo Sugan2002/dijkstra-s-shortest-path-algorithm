@@ -43,14 +43,12 @@ End of program.
 
 ## PROGRAM
 ```
-# Prepared by 
-# C. Obed Otto, 
+
+# Project done by
+# Student name : P.Suganya
+# Reg No 212220230049
 # Department of Artificial Intelligence and Datascience,
 # Saveetha Engineering College. 602105. India.
-
-# Experiment done by
-# Student name : P.Suganya
-Reg No 212220230049
 ```
 ```python
 %matplotlib inline
